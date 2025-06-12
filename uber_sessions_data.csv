@@ -1,0 +1,5 @@
+session_id,date,trips,total_earned,start_time,shift_length_hrs,end_time,device_used
+1,2025-06-06,8,47.82,5:33 PM,4.25,2025-06-06 21:48:00.000,iPhone 13 Pro Max
+2,2025-06-07,14,82.17,5:44 PM,5.02,2025-06-07 22:45:12.000,iPhone 13 Pro Max
+3,2025-06-09,12,58.6,8:20 PM,4.042,2025-06-10 00:22:31.200,iPhone 13 Pro Max
+4,2025-06-10,9,74.87,8:20 PM,5.0,2025-06-11 01:20:00.000,iPhone 13 Pro Max

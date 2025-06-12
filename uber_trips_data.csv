@@ -1,0 +1,14 @@
+trip_id,session_id,restaurant_name,trip_duration,mileage,delivery_zone,tip,total_earnings
+S1-T1,1,Purple Ocean Superfood Bar,41 mins 6 seconds,8.85,Orlando,4.34,9.08
+S1-T2,1,BEI JING RESTAURANT,45 mins 27 seconds,11.91,Orlando,1.65,7.70
+S1-T3,1,Wendys,11 mins 11 seconds,3.01,Orlando,4.00,6.00
+S1-T4,1,Las Cazuelas,47 mins 30 seconds,10.67,Orlando,6.35,11.51
+S1-T5,1,CVS,23 mins 29 seconds,6.32,Orlando,3.89,7.01
+S1-T6,1,Dunkin,30 mins 4 seconds,6.79,Orlando,3.00,6.52
+S1-T7,1,El Cilantrillo,26 mins 24 seconds,3.99,Orlando,2.00,4.17
+S1-T8,1,Family Dollar,24 mins 45 seconds,4.10,Orlando,1.61,6.43
+S1-T9,1,Papa Johns Pizza,14 mins 44 seconds,2.48,Orlando,3.00,5.00
+S1-T10,1,Walgreens,44 mins 23 seconds,6.91,University,1.81,9.36
+S1-T11,1,Napoli Pizza Restaurant,24 mins 32 seconds,4.70,Winter Park,8.96,12.84
+S1-T12,1,Walgreens,32 mins 22 seconds,5.27,Orlando,0,6.04
+S1-T13,1,First Choice Chinese Restaurant,20 mins 34 seconds,6.18,Orlando,3.42,7.58
