@@ -29,4 +29,4 @@ with col1:
 
 with col2: 
     if st.button("Go to Trip Entry"):
-        st.switch_page("pages/2_Trip_Entry.py")
+        st.switch_page("pages/trips_entry.py")
